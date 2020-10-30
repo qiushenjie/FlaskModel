@@ -1,5 +1,5 @@
 # FlaskModel
-支持高并发tensorflow模型推理的flask web服务部署
+支持高并发tensorflow模型推理的flask web服务部署，未完待整理...
 
 
 ## 环境：
