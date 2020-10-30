@@ -1,0 +1,106 @@
+[2020-10-27 16:41:36,808: INFO/MainProcess] Connected to redis://127.0.0.1:6379/0
+[2020-10-27 16:41:36,815: INFO/MainProcess] mingle: searching for neighbors
+[2020-10-27 16:41:37,830: INFO/MainProcess] mingle: all alone
+[2020-10-27 16:41:37,835: INFO/MainProcess] celery@ubuntu ready.
+[2020-10-27 16:41:37,967: INFO/MainProcess] Received task: app.api.celery_worker.inference[991825d9-c8ea-4ecf-9ff2-fb5b86da5fbc]  
+[2020-10-27 16:41:40,320: INFO/MainProcess] Received task: app.api.celery_worker.inference[d3dd015d-9f4a-4c82-9a3d-b2fd5f6fbf5a]  
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@ubuntu v5.0.1 (singularity)
+--- ***** ----- 
+-- ******* ---- Linux-4.15.0-120-generic-x86_64-with-debian-stretch-sid 2020-10-27 16:41:34
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         FlaskModel:0x7f9093e84f98
+- ** ---------- .> transport:   redis://127.0.0.1:6379/0
+- ** ---------- .> results:     redis://127.0.0.1:6379/0
+- *** --- * --- .> concurrency: 16 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . app.api.celery_worker.inference
+
+[2020-10-27 16:54:06,444: INFO/MainProcess] Connected to redis://127.0.0.1:6379/0
+[2020-10-27 16:54:06,451: INFO/MainProcess] mingle: searching for neighbors
+[2020-10-27 16:54:07,466: INFO/MainProcess] mingle: all alone
+[2020-10-27 16:54:07,484: INFO/MainProcess] celery@ubuntu ready.
+[2020-10-27 16:54:42,058: INFO/MainProcess] Received task: app.api.celery_worker.inference[5d4409d2-5617-47e7-aec3-b56ab1101e18]  
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@ubuntu v5.0.1 (singularity)
+--- ***** ----- 
+-- ******* ---- Linux-4.15.0-120-generic-x86_64-with-debian-stretch-sid 2020-10-27 16:54:04
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         FlaskModel:0x7fa3625bc048
+- ** ---------- .> transport:   redis://127.0.0.1:6379/0
+- ** ---------- .> results:     redis://127.0.0.1:6379/0
+- *** --- * --- .> concurrency: 16 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . app.api.celery_worker.inference
+
+[2020-10-29 15:22:48,878: INFO/MainProcess] Connected to redis://127.0.0.1:6379/0
+[2020-10-29 15:22:48,885: INFO/MainProcess] mingle: searching for neighbors
+[2020-10-29 15:22:49,901: INFO/MainProcess] mingle: all alone
+[2020-10-29 15:22:49,931: INFO/MainProcess] celery@ubuntu ready.
+[2020-10-29 15:23:00,795: INFO/MainProcess] Received task: app.api.celery_worker.inference[23202e58-e0f9-4dea-bc02-b3d5bd7a59f3]  
+[2020-10-29 15:23:39,599: INFO/MainProcess] Received task: app.api.celery_worker.inference[bd30ec39-dcd5-4a67-9f5d-2ed4e380cac3]  
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@ubuntu v5.0.1 (singularity)
+--- ***** ----- 
+-- ******* ---- Linux-4.15.0-120-generic-x86_64-with-debian-stretch-sid 2020-10-29 15:22:47
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         FlaskModel:0x7f193d714a90
+- ** ---------- .> transport:   redis://127.0.0.1:6379/0
+- ** ---------- .> results:     redis://127.0.0.1:6379/0
+- *** --- * --- .> concurrency: 16 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . app.api.celery_worker.inference
+
+[2020-10-29 18:20:55,247: INFO/MainProcess] Connected to redis://127.0.0.1:6379/0
+[2020-10-29 18:20:55,261: INFO/MainProcess] mingle: searching for neighbors
+[2020-10-29 18:20:56,277: INFO/MainProcess] mingle: all alone
+[2020-10-29 18:20:56,283: INFO/MainProcess] celery@ubuntu ready.
+[2020-10-29 18:20:57,719: INFO/MainProcess] Received task: app.api.celery_worker.inference[7f419bce-457e-4921-95f2-d5b836fe90c9]  
+
+worker: Warm shutdown (MainProcess)
+ 
+ -------------- celery@ubuntu v5.0.1 (singularity)
+--- ***** ----- 
+-- ******* ---- Linux-4.15.0-120-generic-x86_64-with-debian-stretch-sid 2020-10-29 18:20:52
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         FlaskModel:0x7f57395c2978
+- ** ---------- .> transport:   redis://127.0.0.1:6379/0
+- ** ---------- .> results:     redis://127.0.0.1:6379/0
+- *** --- * --- .> concurrency: 16 (prefork)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . app.api.celery_worker.inference
+

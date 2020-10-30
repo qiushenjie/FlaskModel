@@ -1,0 +1,1011 @@
+
+[2020-10-27 16:32:20,024] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-27 16:32:20,698] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-27 16:32:20,709] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-27 16:32:20,730] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-27 16:32:20,865] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-27 16:32:23,523] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-27 16:36:12,419] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-27 16:36:13,087] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-27 16:36:13,097] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-27 16:36:13,119] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-27 16:36:13,253] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-27 16:36:15,863] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-27 16:36:18,613] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-27 16:36:42,963] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-27 16:41:37,981] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-27 16:41:38,637] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-27 16:41:38,647] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-27 16:41:38,667] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-27 16:41:38,797] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-27 16:41:41,300] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-27 16:41:41,666] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-27 16:54:42,068] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-27 16:54:42,695] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-27 16:54:42,704] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-27 16:54:42,722] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-27 16:54:42,848] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-27 16:54:45,286] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 10:49:40,169] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-28 10:49:40,170] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-28 10:49:40,175] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-28 10:49:40,786] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 10:49:40,796] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 10:49:40,815] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 10:49:40,940] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 10:49:43,317] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 11:36:36,607] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-28 11:36:36,613] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-28 11:36:37,226] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 11:36:37,235] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 11:36:37,254] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 11:36:37,382] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 11:36:39,913] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 11:43:48,825] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-28 11:43:48,831] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-28 11:43:49,450] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 11:43:49,460] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 11:43:49,479] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 11:43:49,602] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 11:43:52,150] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 17:00:33,162] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-28 17:00:33,164] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-28 17:00:33,169] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-28 17:00:33,761] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 17:00:33,770] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:00:33,790] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:00:33,910] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:00:36,471] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 17:15:50,747] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-28 17:20:44,101] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-28 17:20:44,102] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-28 17:20:44,107] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-28 17:20:44,713] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 17:20:44,723] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:20:44,742] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:20:44,862] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:20:47,316] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 17:21:57,673] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-28 17:21:57,675] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-28 17:21:57,680] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-28 17:21:58,300] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 17:21:58,309] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:21:58,328] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:21:58,452] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:22:00,956] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 17:32:40,923] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-28 17:32:40,924] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-28 17:32:40,929] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-28 17:32:41,533] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 17:32:41,542] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:32:41,560] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:32:41,684] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:32:44,176] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 17:39:17,757] ERROR in app: Exception on /inference/0/0/3/0/20 [GET]
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ubuntu/qiushenjie/FlaskModel/app/api/modelInferenceAPI.py", line 9, in Inference
+    Redis.write(SeriesInstanceNumberUID, result)
+  File "/home/ubuntu/qiushenjie/FlaskModel/app/database/redis_db.py", line 26, in write
+    expire_in_seconds = current_app.config['REDIS_EXPIRE']
+KeyError: 'REDIS_EXPIRE'
+[2020-10-28 17:39:17,764] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-28 17:39:17,765] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-28 17:39:17,770] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-28 17:39:18,383] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 17:39:18,393] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:39:18,412] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:39:18,538] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:39:20,947] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 17:39:32,629] ERROR in app: Exception on /inference/0/0/3/0/20 [GET]
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ubuntu/qiushenjie/FlaskModel/app/api/modelInferenceAPI.py", line 9, in Inference
+    Redis.write(SeriesInstanceNumberUID, result)
+  File "/home/ubuntu/qiushenjie/FlaskModel/app/database/redis_db.py", line 26, in write
+    expire_in_seconds = current_app.config['REDIS_EXPIRE']
+KeyError: 'REDIS_EXPIRE'
+[2020-10-28 17:39:32,630] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-28 17:46:40,770] ERROR in app: Exception on /inference/0/0/3/0/20 [GET]
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ubuntu/qiushenjie/FlaskModel/app/api/modelInferenceAPI.py", line 9, in Inference
+    Redis.write(SeriesInstanceNumberUID, result)
+  File "/home/ubuntu/qiushenjie/FlaskModel/app/database/redis_db.py", line 26, in write
+    expire_in_seconds = current_app.config['REDIS_EXPIRE']
+KeyError: 'REDIS_EXPIRE'
+[2020-10-28 17:46:40,774] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-28 17:46:40,776] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-28 17:46:40,784] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-28 17:46:41,393] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 17:46:41,402] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:46:41,421] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:46:41,546] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:46:44,017] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 17:48:07,030] ERROR in app: Exception on /inference/0/0/3/0/20 [GET]
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ubuntu/qiushenjie/FlaskModel/app/api/modelInferenceAPI.py", line 9, in Inference
+    Redis.write(SeriesInstanceNumberUID, result)
+  File "/home/ubuntu/qiushenjie/FlaskModel/app/database/redis_db.py", line 28, in write
+    r = cls._get_r()
+  File "/home/ubuntu/qiushenjie/FlaskModel/app/database/redis_db.py", line 11, in _get_r
+    host = current_app.config['REDIS_HOST']
+KeyError: 'REDIS_HOST'
+[2020-10-28 17:48:07,034] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-28 17:48:07,036] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-28 17:48:07,043] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-28 17:48:07,685] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 17:48:07,695] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:48:07,713] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:48:07,837] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:48:10,458] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 17:52:46,261] ERROR in app: Exception on /inference/0/0/3/0/20 [GET]
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/_compat.py", line 35, in reraise
+    raise value
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ubuntu/qiushenjie/FlaskModel/app/api/modelInferenceAPI.py", line 9, in Inference
+    Redis.write(SeriesInstanceNumberUID, result)
+  File "/home/ubuntu/qiushenjie/FlaskModel/app/database/redis_db.py", line 33, in write
+    r.set(key, value, ex=expire_in_seconds)
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/redis/client.py", line 1801, in set
+    return self.execute_command('SET', *pieces)
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/redis/client.py", line 900, in execute_command
+    conn.send_command(*args)
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/redis/connection.py", line 725, in send_command
+    self.send_packed_command(self.pack_command(*args),
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/redis/connection.py", line 775, in pack_command
+    for arg in imap(self.encoder.encode, args):
+  File "/home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/redis/connection.py", line 120, in encode
+    "bytes, string, int or float first." % typename)
+redis.exceptions.DataError: Invalid input of type: 'AsyncResult'. Convert to a bytes, string, int or float first.
+[2020-10-28 17:52:46,266] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-28 17:52:46,267] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-28 17:52:46,274] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-28 17:52:46,896] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 17:52:46,905] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:52:46,924] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:52:47,045] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:52:49,642] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 17:53:51,676] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-28 17:53:51,677] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-28 17:53:51,684] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-28 17:53:52,279] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 17:53:52,289] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:53:52,308] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:53:52,428] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:53:54,874] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 17:54:59,531] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-28 17:54:59,533] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-28 17:54:59,540] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-28 17:55:00,147] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 17:55:00,156] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:55:00,175] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:55:00,300] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:55:02,775] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 17:55:51,759] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-28 17:55:51,761] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-28 17:55:51,768] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-28 17:55:52,367] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 17:55:52,377] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:55:52,397] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:55:52,520] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 17:55:55,000] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 18:15:59,605] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-28 18:15:59,607] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-28 18:15:59,613] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-28 18:16:00,222] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 18:16:00,231] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 18:16:00,251] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 18:16:00,372] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-28 18:16:02,885] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-28 18:34:05,955] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-28 18:35:46,446] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-28 18:41:32,178] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-28 18:53:57,412] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-28 18:56:23,293] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 10:50:10,533] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-29 10:50:10,534] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-29 10:50:10,541] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 10:50:11,149] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 10:50:11,158] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 10:50:11,177] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 10:50:11,299] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 10:50:13,795] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 11:00:56,746] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-29 11:00:56,747] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-29 11:00:56,753] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 11:00:57,349] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 11:00:57,358] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 11:00:57,377] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 11:00:57,497] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 11:00:59,902] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 12:00:52,082] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-29 12:00:52,083] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-29 12:00:52,089] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 12:00:52,679] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 12:00:52,688] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 12:00:52,707] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 12:00:52,831] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 12:00:55,240] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 12:40:38,539] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-29 12:40:38,540] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-29 12:40:38,546] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 12:40:39,146] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 12:40:39,155] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 12:40:39,173] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 12:40:39,295] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 12:40:41,752] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 12:43:35,090] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-29 12:43:35,091] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-29 12:43:35,097] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 12:43:35,696] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 12:43:35,705] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 12:43:35,723] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 12:43:35,845] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 12:43:38,615] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 14:48:08,225] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-29 14:48:08,232] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-29 14:48:08,252] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 14:48:08,921] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 14:48:08,931] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 14:48:08,950] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 14:48:09,073] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 14:48:11,501] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 14:48:12,607] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 14:49:29,397] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-29 14:49:29,399] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-29 14:49:29,405] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 14:49:30,018] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 14:49:30,027] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 14:49:30,048] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 14:49:30,174] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 14:49:32,811] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 14:50:00,671] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 14:52:26,261] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-29 14:52:26,264] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-29 14:52:26,270] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 14:52:26,892] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 14:52:26,901] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 14:52:26,920] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 14:52:27,043] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 14:52:29,670] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 14:55:06,297] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-29 14:55:06,299] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-29 14:55:06,305] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 14:55:06,916] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 14:55:06,925] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 14:55:06,943] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 14:55:07,065] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 14:55:09,698] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 14:57:19,194] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-29 14:57:19,196] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-29 14:57:19,203] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 14:57:19,815] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 14:57:19,824] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 14:57:19,842] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 14:57:19,962] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 14:57:22,516] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 14:59:38,992] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-29 14:59:38,993] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-29 14:59:38,999] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 14:59:39,599] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 14:59:39,608] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 14:59:39,627] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 14:59:39,746] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 14:59:42,161] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 15:03:31,487] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-29 15:03:31,490] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-29 15:03:31,500] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 15:03:32,132] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 15:03:32,142] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 15:03:32,162] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 15:03:32,284] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 15:03:34,727] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 15:05:35,582] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-29 15:05:35,584] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-29 15:05:35,590] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 15:05:36,259] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 15:05:36,268] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 15:05:36,286] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 15:05:36,409] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 15:05:38,940] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 15:08:11,374] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-29 15:08:11,376] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-29 15:08:11,382] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 15:08:11,986] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 15:08:11,996] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 15:08:12,016] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 15:08:12,141] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 15:08:14,669] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 15:12:14,837] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-29 15:12:14,839] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-29 15:12:14,846] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 15:12:15,448] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 15:12:15,458] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 15:12:15,476] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 15:12:15,597] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 15:12:18,126] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 15:17:42,562] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-29 15:17:42,565] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-29 15:17:42,575] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 15:17:43,254] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 15:17:43,263] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 15:17:43,282] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 15:17:43,406] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 15:17:45,888] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 15:19:31,267] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 15:19:37,460] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 15:23:00,799] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-29 15:23:00,800] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-29 15:23:00,807] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 15:23:01,426] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 15:23:01,436] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 15:23:01,454] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 15:23:01,576] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 15:23:04,166] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 15:23:39,600] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 18:20:57,725] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:774: UserWarning: Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. Defaulting SQLALCHEMY_DATABASE_URI to "sqlite:///:memory:".
+  'Neither SQLALCHEMY_DATABASE_URI nor SQLALCHEMY_BINDS is set. '
+
+[2020-10-29 18:20:57,726] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py:794: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+[2020-10-29 18:20:57,734] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow_serving/apis/prediction_service_pb2.py:131: DeprecationWarning: beta_create_PredictionService_stub() method is deprecated. This method will be removed in near future versions of TF Serving. Please switch to GA gRPC API in prediction_service_pb2_grpc.
+  'prediction_service_pb2_grpc.', DeprecationWarning)
+
+[2020-10-29 18:20:58,334] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
+[2020-10-29 18:20:58,343] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 18:20:58,361] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 18:20:58,484] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: numpy.ufunc size changed, may indicate binary incompatibility. Expected 192 from C header, got 216 from PyObject
+  return f(*args, **kwds)
+
+[2020-10-29 18:21:00,913] WARNING in warnings: /home/ubuntu/anaconda3/envs/qsj/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py:75: DeprecationWarning: inspect.getargspec() is deprecated, use inspect.signature() or inspect.getfullargspec()
+  return _inspect.getargspec(target)
+
