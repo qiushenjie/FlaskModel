@@ -34,20 +34,7 @@ import json
 import cv2
 
 def dicom2img(dicom_path, img_size=(512, 512)):
-    slice_series = groupSlices(dicom_path)
-    for (k, v) in slice_series.items():
-        slice_series = Series.sortByInstanceNumber(v.series)
-        images = []
-        slices_path = []
-        for i, slice in enumerate(slice_series):
-            slice.array2D = Series.unifyPixelValue(slice.array2D) * 255.0
-            img = slice.array2D.copy()
-            img = cv2.resize(img, dsize=img_size)
-            images.append(img)
-            slices_path.append(slice.instanceNumber)
-
-        images = np.array(images)
-        return images, slices_path
+    pass
 
 class batch_generator:
     def __init__(self, total):
@@ -62,11 +49,7 @@ class batch_generator:
         return r_n
 
 def postp(series_matrix):
-    s = Search(series_matrix)
-    path = np.array(s.searchPath())
-    # path_ = path_.reshape(-1, 1)
-    direction = s.direction
-    return path, direction
+    pass
 
 def request_server(series_instance_uid_path, start, end, server_url):
     host, port = server_url.split(':')
